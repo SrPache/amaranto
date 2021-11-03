@@ -75,6 +75,7 @@ body{
     border:2px solid var(--bg-color-terciario);
     box-sizing: border-box;
     background: grey url('../img/vegetables-and-space-on-bottom_compressed.jpg');
+    background-attachment:fixed;
     background-position: center;
     background-size: cover;
     display: flex;
